@@ -23,13 +23,11 @@ With a sound  knowledge of `Code Refactoring`,`Object Oriented Design`, `Functio
 
 
 - **2011 -> 2023** [Senior Software Engineer] (Kuveyt Türk Participation Bank)
-  - t	
+  - 
 
 
 
-- **2007 -> 2011** [Senior g Software Engineer] (Kuveyt Türk Participation Bank)
-  - t	
 
 - **2007 –> 2011** [Software Engineer] (BankAsya Participation Bank)
-  - tt
+  - Conversion project (from Oracle Forms to c# Windows Forms)
 
