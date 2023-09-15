@@ -1,3 +1,4 @@
+
 ## Hey there 👋, I'm [Abdullah Beyaztaş](https://github.com/beyaz/)
 
 ### Senior Software Engineer
@@ -20,14 +21,24 @@ With a sound  knowledge of `Code Refactoring`,`Object Oriented Design`, `Functio
 
 #### Career summary:
 
-
-
 - **2011 -> 2023** [Senior Software Engineer] (Kuveyt Türk Participation Bank)
-  - 
-
-
-
+  - Internet Banking Site **1 year** (More than 70 form written asp.net)
+  - CRM Campaign Module **1 year** (Forms and Tablet app)
+  - DebitCard Module **4 year** (clearing, accounting, authorization )
+  - DebitCard Module specialized for Germany  **1 year**
+  - CreditCard Conversion  **4 year** (I worked as architechture. Database access, entity, infrastructure of React web forms, manage more than 250 forms, drag and drop ui generation tools)
+  - MasterCard Cross Border Services  **1 year** (Alternative to Swift money transfer system)
 
 - **2007 –> 2011** [Software Engineer] (BankAsya Participation Bank)
-  - Conversion project (from Oracle Forms to c# Windows Forms)
+  - Conversion project - **4 years** (from Oracle Forms to c# Windows Forms)
 
+
+#### Personel Projects:
+
+- **Api Inspector** (interesting alternative to Postman, execute or debug any .net code)
+- **ReactWithDotNet** (Define React components in c# language, not finished yet)
+- **DotNet Architecture Explorer** (Mini alternative to NDepend)
+- **Hides unobtrusive codes** (Hides comments, and trace lines or what you want in visual studio ide)
+
+#### Education
+Bachelor’s Degree - GTU Computer Engineering (2002 - 2006)
