@@ -30,7 +30,7 @@ With a sound  knowledge of `Code Refactoring`,`Object Oriented Design`, `Functio
   - MasterCard Cross Border Services  **1 year** (Alternative to Swift money transfer system)
 
 - **2007 –> 2011** [Software Engineer] (BankAsya Participation Bank)
-  - Conversion project - **4 years** (from Oracle Forms to c# Windows Forms)
+  - Conversion project - **4 year** (from Oracle Forms to c# Windows Forms)
 
 
 #### Personel Projects:
@@ -38,7 +38,7 @@ With a sound  knowledge of `Code Refactoring`,`Object Oriented Design`, `Functio
 - **Api Inspector** (interesting alternative to Postman, execute or debug any .net code)
 - **ReactWithDotNet** (Define React components in c# language, not finished yet)
 - **DotNet Architecture Explorer** (Mini alternative to NDepend)
-- **Hides unobtrusive codes** (Hides comments, and trace lines or what you want in visual studio ide)
+- **Hides Unobtrusive Codes** (Hides comments, and trace lines or what you want in visual studio ide)
 
 #### Education
 Bachelor’s Degree - GTU Computer Engineering (2002 - 2006)
